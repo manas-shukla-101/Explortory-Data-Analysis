@@ -29,5 +29,14 @@ Urban commutes are more than just a daily hassle—they are a data problem. This
 ## 📈 Strategic Insights
 * **Targeted Infrastructure:** Improving road quality directly alleviates long-duration congestion.
 * **Policy Focus:** Launch transit reliability campaigns specifically targeting the 18–45 demographic to maximize adoption.
+
 ---
-_Made with 💗 by Manas Shukla._
+---
+**Made with ❤️ by Manas Shukla**
+
+---
+
+## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://manas-shukla-portfolio.framer.website) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manas_shukla_101) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manas-shukla-006774370) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shuklamanas8928@gmail.com) 
+
+---
